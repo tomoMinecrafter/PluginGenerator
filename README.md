@@ -1,0 +1,2 @@
+# PluginGenerator
+Make plugin template
